@@ -1,7 +1,7 @@
 package net.hanane;
 
 /**
- * @author saade
+ * @author Hanane
  **/
 public class StrategyImpl2 implements IStrategy {
 

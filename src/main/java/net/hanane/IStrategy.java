@@ -1,7 +1,7 @@
 package net.hanane;
 
 /**
- * @author saade
+ * @author Hanane
  **/
 public interface IStrategy {
     void operation();

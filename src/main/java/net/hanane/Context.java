@@ -1,7 +1,7 @@
 package net.hanane;
 
 /**
- * @author saade
+ * @author Hanane
  **/
 public class Context {
     private IStrategy strategy = new StrategyImplDefault();
